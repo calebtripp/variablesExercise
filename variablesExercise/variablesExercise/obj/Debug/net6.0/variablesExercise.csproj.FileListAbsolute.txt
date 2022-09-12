@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\bin\Debug\net6.0\variablesExercise.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\bin\Debug\net6.0\variablesExercise.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\bin\Debug\net6.0\variablesExercise.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\bin\Debug\net6.0\variablesExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\bin\Debug\net6.0\variablesExercise.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\refint\variablesExercise.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\variablesExercise.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\variablesExercise\variablesExercise\variablesExercise\obj\Debug\net6.0\ref\variablesExercise.dll
